@@ -4,24 +4,7 @@
   ],
   "countries": 
     [
-     
-      
-      {
-        "country": "Pitcairn",
-        "city": "Adamstown"
-      },
-      {
-        "country": "Poland",
-        "city": "Warszawa"
-      },
-      {
-        "country": "Portugal",
-        "city": "Lisboa"
-      },
-      {
-        "country": "Puerto Rico",
-        "city": "San Juan"
-      },
+   
       {
         "country": "Qatar",
         "city": "Doha"
@@ -30,102 +13,23 @@
         "country": "Reunion",
         "city": "Saint-Denis"
       },
-      {
-        "country": "Romania",
-        "city": "Bucuresti"
-      },
+      
       {
         "country": "Russian Federation",
         "city": "Moscow"
       },
-      {
-        "country": "Rwanda",
-        "city": "Kigali"
-      },
-      {
-        "country": "Saint Helena",
-        "city": "Jamestown"
-      },
-      {
-        "country": "Saint Kitts and Nevis",
-        "city": "Basseterre"
-      },
-      {
-        "country": "Saint Lucia",
-        "city": "Castries"
-      },
-      {
-        "country": "Saint Pierre and Miquelon",
-        "city": "Saint-Pierre"
-      },
-      {
-        "country": "Saint Vincent and the Grenadines",
-        "city": "Kingstown"
-      },
-      {
-        "country": "Samoa",
-        "city": "Apia"
-      },
-      {
-        "country": "San Marino",
-        "city": "San Marino"
-      },
-      {
-        "country": "Sao Tome and Principe",
-        "city": "S"
-      },
+      
+      
       {
         "country": "Saudi Arabia",
         "city": "Riyadh"
       },
-      {
-        "country": "Scotland",
-        "city": "Edinburgh"
-      },
-      {
-        "country": "Senegal",
-        "city": "Dakar"
-      },
-      {
-        "country": "Serbia",
-        "city": "Belgrade"
-      },
-      {
-        "country": "Seychelles",
-        "city": "Victoria"
-      },
-      {
-        "country": "Sierra Leone",
-        "city": "Freetown"
-      },
-      {
-        "country": "Singapore",
-        "city": "Singapore"
-      },
-      {
-        "country": "Slovakia",
-        "city": "Bratislava"
-      },
-      {
-        "country": "Slovenia",
-        "city": "Ljubljana"
-      },
-      {
-        "country": "Solomon Islands",
-        "city": "Honiara"
-      },
-      {
-        "country": "Somalia",
-        "city": "Mogadishu"
-      },
+      
       {
         "country": "South Africa",
         "city": "Pretoria"
       },
-      {
-        "country": "South Georgia and the South Sandwich Islands",
-        "city": null
-      },
+      
       {
         "country": "South Korea",
         "city": "Seoul"
@@ -134,38 +38,12 @@
         "country": "South Sudan",
         "city": "Juba"
       },
-      {
-        "country": "Spain",
-        "city": "Madrid"
-      },
-      {
-        "country": "SriLanka",
-        "city": null
-      },
+      
       {
         "country": "Sudan",
         "city": "Khartum"
       },
-      {
-        "country": "Suriname",
-        "city": "Paramaribo"
-      },
-      {
-        "country": "Svalbard and Jan Mayen",
-        "city": "Longyearbyen"
-      },
-      {
-        "country": "Swaziland",
-        "city": "Mbabane"
-      },
-      {
-        "country": "Sweden",
-        "city": "Stockholm"
-      },
-      {
-        "country": "Switzerland",
-        "city": "Bern"
-      },
+    
       {
         "country": "Syria",
         "city": "Damascus"
@@ -178,34 +56,7 @@
         "country": "Tanzania",
         "city": "Dodoma"
       },
-      {
-        "country": "Thailand",
-        "city": "Bangkok"
-      },
-      {
-        "country": "The Democratic Republic of Congo",
-        "city": "Kinshasa"
-      },
-      {
-        "country": "Togo",
-        "city": "Lom"
-      },
-      {
-        "country": "Tokelau",
-        "city": "Fakaofo"
-      },
-      {
-        "country": "Tonga",
-        "city": "Nuku'alofa"
-      },
-      {
-        "country": "Trinidad and Tobago",
-        "city": "Port-of-Spain"
-      },
-      {
-        "country": "Tunisia",
-        "city": "Tunis"
-      },
+      
       {
         "country": "Turkey",
         "city": "Ankara"
@@ -214,22 +65,7 @@
         "country": "Turkmenistan",
         "city": "Ashgabat"
       },
-      {
-        "country": "Turks and Caicos Islands",
-        "city": "Cockburn Town"
-      },
-      {
-        "country": "Tuvalu",
-        "city": "Funafuti"
-      },
-      {
-        "country": "Uganda",
-        "city": "Kampala"
-      },
-      {
-        "country": "Ukraine",
-        "city": "Kyiv"
-      },
+     
       {
         "country": "United Arab Emirates",
         "city": "Abu Dhabi"
@@ -246,58 +82,7 @@
         "country": "United States Minor Outlying Islands",
         "city": null
       },
-      {
-        "country": "Uruguay",
-        "city": "Montevideo"
-      },
-      {
-        "country": "Uzbekistan",
-        "city": "Toskent"
-      },
-      {
-        "country": "Vanuatu",
-        "city": "Port-Vila"
-      },
-      {
-        "country": "Venezuela",
-        "city": "Caracas"
-      },
-      {
-        "country": "Vietnam",
-        "city": "Hanoi"
-      },
-      {
-        "country": "Virgin Islands, British",
-        "city": "Road Town"
-      },
-      {
-        "country": "Virgin Islands, U.S.",
-        "city": "Charlotte Amalie"
-      },
-      {
-        "country": "Wales",
-        "city": "Cardiff"
-      },
-      {
-        "country": "Wallis and Futuna",
-        "city": "Mata-Utu"
-      },
-      {
-        "country": "Western Sahara",
-        "city": "El-Aai"
-      },
-      {
-        "country": "Yemen",
-        "city": "Sanaa"
-      },
-      {
-        "country": "Zambia",
-        "city": "Lusaka"
-      },
-      {
-        "country": "Zimbabwe",
-        "city": "Harare"
-      }
+      
     ],
   "room-type": [
     {
