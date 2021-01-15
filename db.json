@@ -4,7 +4,6 @@
   ],
   "countries": 
     [
-   
       {
         "country": "Qatar",
         "city": "Doha"
@@ -81,7 +80,7 @@
       {
         "country": "United States Minor Outlying Islands",
         "city": null
-      },
+      }
       
     ],
   "room-type": [
